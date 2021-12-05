@@ -1,5 +1,5 @@
 # CSU Chico, MECA 482 Fall 2021 Inertia Wheel Project
-### Team Members: Anthony Aliotti,Shelby Bartlett, Jacob Corbin, Nate Hilal, Alex Schweizer
+### Team Members: Anthony Aliotti, Shelby Bartlett, Jacob Corbin, Nate Hilal, Alex Schweizer
 
 
 ## Concept Design
