@@ -1,4 +1,4 @@
-## CSU Chico, MECA 482 Spring 2021 Inertia Wheel Project
+## CSU Chico, MECA 482 Fall 2021 Inertia Wheel Project
 
 I hate GitHub
 
