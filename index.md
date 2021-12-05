@@ -5,7 +5,7 @@
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+![Image](https://github.com/AYSchweizer/482Images/blob/8d31d3ae31b7d035b9f91d7ce20026c15c8f6801/LogicalFunctionalView.PNG)
 ```markdown
 Syntax highlighted code block
 
