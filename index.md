@@ -2,10 +2,13 @@
 ### Team Members: Anthony Aliotti,Shelby Bartlett, Jacob Corbin, Nate Hilal, Alex Schweizer
 
 
-### Markdown
+## Concept Design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Logical Functional Viewpoint
 ![Image](https://github.com/AYSchweizer/482Images/blob/8d31d3ae31b7d035b9f91d7ce20026c15c8f6801/LogicalFunctionalView.PNG)
+![Image](https://github.com/AYSchweizer/482Images/blob/8d31d3ae31b7d035b9f91d7ce20026c15c8f6801/Capabilities_database.PNG)
+### Capabilities Database
+
 ```markdown
 Syntax highlighted code block
 
