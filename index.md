@@ -1,8 +1,6 @@
 ## CSU Chico, MECA 482 Spring 2021 Inertia Wheel Project
 
-You can use the [editor on GitHub](https://github.com/AYSchweizer/AYSchweizer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hate GitHub
 
 ### Markdown
 
