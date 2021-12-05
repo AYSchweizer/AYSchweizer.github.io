@@ -5,10 +5,10 @@
 ## Concept Design
 
 ### Logical Functional Viewpoint
-![Image](https://github.com/AYSchweizer/482Images/blob/8d31d3ae31b7d035b9f91d7ce20026c15c8f6801/LogicalFunctionalView.PNG)
+![Image](https://github.com/AYSchweizer/InertiaWheel.github.io/blob/576d07ffea4ba97f032f0a8416a95745c15e341f/LogicalFunctionalView.PNG)
 
 ### Capabilities Database
-![Image](https://github.com/AYSchweizer/482Images/blob/8d31d3ae31b7d035b9f91d7ce20026c15c8f6801/Capabilities_database.PNG)
+![Image](https://github.com/AYSchweizer/InertiaWheel.github.io/blob/576d07ffea4ba97f032f0a8416a95745c15e341f/Capabilities_database.PNG)
 
 
 ```markdown
