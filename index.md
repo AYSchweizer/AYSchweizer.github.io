@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CSU Chico, MECA 482 Spring 2021 Inertia Wheel Project
 
 You can use the [editor on GitHub](https://github.com/AYSchweizer/AYSchweizer.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
