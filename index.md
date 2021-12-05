@@ -8,7 +8,7 @@
 ![Image](LogicalFunctionalView.PNG)
 
 ### Capabilities Database
-![Image](https://github.com/AYSchweizer/InertiaWheel.github.io/blob/576d07ffea4ba97f032f0a8416a95745c15e341f/Capabilities_database.PNG)
+![Image](Capabilities_database.PNG)
 
 
 ```markdown
