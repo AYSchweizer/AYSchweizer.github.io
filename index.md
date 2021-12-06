@@ -4,6 +4,11 @@
 
 ## Concept Design
 
+### Operational Viewpoint
+![Image](Function_diagram.png)
+
+![Image](operational_viewpoint_side.png)
+
 ### Logical Functional Viewpoint
 ![Image](LogicalFunctionalView.PNG)
 
