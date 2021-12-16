@@ -17,6 +17,20 @@
 
 ### Report
 ![Image](MECA_482_Final_Report_Page_1.jpg)
+![Image](MECA_482_Final_Report_Page_2.jpg)
+![Image](MECA_482_Final_Report_Page_3.jpg)
+![Image](MECA_482_Final_Report_Page_4.jpg)
+![Image](MECA_482_Final_Report_Page_5.jpg)
+
+
+
+
+
+### Video Presentation
+[Link](url)
+
+
+
 ```markdown
 Syntax highlighted code block
 
