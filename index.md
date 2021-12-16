@@ -16,7 +16,7 @@
 ![Image](Capabilities_database.PNG)
 
 ### Report
-![Image](MECA_482_Final_report_page_1)
+![Image](MECA_482_Final_Report_Page_1.jpg)
 ```markdown
 Syntax highlighted code block
 
