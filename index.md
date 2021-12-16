@@ -28,25 +28,6 @@ A PDF is provided of the report [HERE](https://drive.google.com/file/d/1PsqEJN0E
 
 
 ### Video Presentation
-[Link](url)
+[Video Presentation](url)
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/AYSchweizer/482Images/blob/8d31d3ae31b7d035b9f91d7ce20026c15c8f6801/LogicalFunctionalView.PNG)
-```
 
