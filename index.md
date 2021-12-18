@@ -2,11 +2,11 @@
 ### Team Members: Anthony Aliotti, Shelby Bartlett, Jacob Corbin, Nate Hilal, Alex Schweizer
 
 
-### Video Presentation
+## Video Presentation
 [Video Presentation](https://youtu.be/jPzScW46sSw)
 
 
-### View Simulation Files
+## View Simulation Files
 [Simulation Files](https://github.com/n-hilal/MECA-482-Group-1-F21)
 
 
