@@ -2,18 +2,6 @@
 ### Team Members: Anthony Aliotti, Shelby Bartlett, Jacob Corbin, Nate Hilal, Alex Schweizer
 
 
-## Concept Design
-
-### Operational Viewpoint
-![Image](Function_diagram.png)
-
-![Image](operational_viewpoint_side.png)
-
-### Logical Functional Viewpoint
-![Image](LogicalFunctionalView.PNG)
-
-### Capabilities Database
-![Image](Capabilities_database.PNG)
 
 ## Report
 A PDF is provided of the report [HERE](https://drive.google.com/file/d/1PsqEJN0E3LL2bM953LPChFb6GJb5_Yi9/view?usp=sharing).
