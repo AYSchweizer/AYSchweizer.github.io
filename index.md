@@ -5,6 +5,8 @@
 ## Video Presentation
 [Video Presentation](https://youtu.be/jPzScW46sSw)
 
+## View Simulation Video
+[Simulation Video](https://youtu.be/cp-yuhqAYWQ)
 
 ## View Simulation Files
 [Simulation Files](https://github.com/n-hilal/MECA-482-Group-1-F21)
