@@ -12,11 +12,16 @@
 
 ## Report
 A PDF is provided of the report [HERE](https://drive.google.com/file/d/1PsqEJN0E3LL2bM953LPChFb6GJb5_Yi9/view?usp=sharing).
-![Image]()
-![Image]()
-![Image]()
-![Image]()
-![Image]()
+![Image](MECA_482_Final_Report_Page_01.jpg)
+![Image](MECA_482_Final_Report_Page_02.jpg)
+![Image](MECA_482_Final_Report_Page_03.jpg)
+![Image](MECA_482_Final_Report_Page_04.jpg)
+![Image](MECA_482_Final_Report_Page_05.jpg)
+![Image](MECA_482_Final_Report_Page_06.jpg)
+![Image](MECA_482_Final_Report_Page_07.jpg)
+![Image](MECA_482_Final_Report_Page_08.jpg)
+![Image](MECA_482_Final_Report_Page_09.jpg)
+![Image](MECA_482_Final_Report_Page_10.jpg)
 
 
 
